@@ -2,9 +2,7 @@
 
 ---
 
-## Trabajo Práctico 1
-
-### Organización de Datos - Ciencia de Datos
+## Trabajos Prácticos de Organización de Datos - Ciencia de Datos
 
 - (9558 - TA047) Curso 02 - Rodriguez
 - 2º Cuatrimestre 2024
@@ -17,6 +15,6 @@
 - Gian Luca Spagnolo - 108072
 - Marcela Jazmín Cruz - 110066
 
-## Detalles de la Ejecución
+### Detalles de la Ejecución
 
 Para su correcta ejecucion, agregar esta carpeta a su Google Drive en la seccion **"Mi unidad"** como *acceso directo*: <https://drive.google.com/drive/u/1/folders/1h2oLhm_Oo4WpHRSPZTvp_qWnrjD6fInh>
